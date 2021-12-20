@@ -13,7 +13,7 @@ export const Product = ({ item }) => {
           <div class="titulo">{title}</div>
         </Col>
         <Col xs={4}>
-          <Button variant="primary" id= "but">
+          <Button variant="primary" class= "but">
             Precio <Badge bg="secondary" id="butsec">{price}</Badge>
             <span className="visually-hidden">$</span>
           </Button>
