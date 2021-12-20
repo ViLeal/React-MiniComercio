@@ -1,0 +1,33 @@
+.img-product {
+    height: 100px;
+    width: 100px;
+    margin: 3px;
+    margin-top: 6px;
+float:left;}
+
+#but {
+    background-color:#FFC300 ;
+    border-radius: 5px;
+    color:white;
+    padding: 6px;
+    box-shadow: 5px -5px teal;
+
+}
+#butsec {
+    background-color:  #C70039 ;
+    padding: 3px;
+    border-radius: 5px;
+}
+.titulo {
+    background-color:  #DAF7A6 ;
+    color:  #581845 ;
+}
+.headstyle
+{
+    background-color: #DAF7A6;}
+h1{
+    color:  #900C3F ;
+}
+.body {
+    background-color:grey;
+}
